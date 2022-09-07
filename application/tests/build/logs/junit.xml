@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Symbol_test" file="D:\xampp\htdocs\xm_test\application\tests\Symbol_test.php" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.635827">
+    <testcase name="test_index" class="Symbol_test" classname="Symbol_test" file="D:\xampp\htdocs\xm_test\application\tests\Symbol_test.php" line="6" assertions="1" time="0.041296"/>
+    <testcase name="test_details" class="Symbol_test" classname="Symbol_test" file="D:\xampp\htdocs\xm_test\application\tests\Symbol_test.php" line="14" assertions="1" time="0.020906"/>
+    <testcase name="test_sendMail" class="Symbol_test" classname="Symbol_test" file="D:\xampp\htdocs\xm_test\application\tests\Symbol_test.php" line="27" assertions="1" time="0.012782"/>
+    <testcase name="test_cUrlGetData" class="Symbol_test" classname="Symbol_test" file="D:\xampp\htdocs\xm_test\application\tests\Symbol_test.php" line="38" assertions="1" time="0.560843"/>
+  </testsuite>
+</testsuites>
